@@ -1,0 +1,11 @@
+Algorithms
+Programming and Data Structures
+Computer Networks
+Computer Organization and Architecture
+Databases
+Operating System
+Digital Logic
+Theory of Computation & Compiler Design
+Discrete Mathematics
+Software Engineering
+Engineering Mathematics: Probability, Differential Equations, Laplace, Linear Algebra, Calculus.
